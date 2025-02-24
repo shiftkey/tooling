@@ -41,7 +41,7 @@ GEM
     faraday-net_http (3.4.0)
       net-http (>= 0.5.0)
     fiber-storage (1.0.0)
-    graphql (2.4.9)
+    graphql (2.4.10)
       base64
       fiber-storage
       logger
@@ -58,7 +58,7 @@ GEM
       regexp_parser (~> 2.0)
       simpleidn (~> 0.2)
     language_server-protocol (3.17.0.4)
-    logger (1.6.3)
+    logger (1.6.6)
     minitest (5.25.4)
     mocha (2.7.1)
       ruby2_keywords (>= 0.0.5)
